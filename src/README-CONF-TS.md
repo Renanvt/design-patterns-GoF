@@ -38,18 +38,31 @@ Instala o typescript para poder compilar o projeto
 ```
 
 **ComilerOptions** - Configurações referente ao projeto
+
 **Target** - Ambiente que será rodado o projeto em produção. Precisa saber qual é a versão do ECMA script que irá rodar no ambiente de produção
+
 **Module** - Sistema de módulos
+
 **lib** - DOM - console.log, etc
+
 **outDir** - Quando compilar o projeto, será compilado para a pasta definida
+
 **rootDir** - Raiz do meu projeto
+
 **removeComments** - Remover comentários quando compilar o código
+
 **noEmitOnError** - Se tiver algum erro no código, não omitir o código compilado
+
 **strict** - Modo restrito
+
 **esModuleInterop** - Habilita interoperabilidade entre commonjs e es6modules
+
 **skipLibCheck** - Pular a checkagem de arquivos que são declaration files, esses arquivos tem a extensão .d.js, que geramente já estão checados, acelerando a compilação do projeto
+
 **forceConsistentCasingInFileNames** - Não permitir referências incosistentes para nome de arquivos
+
 **include** - Só checke a pasta definida
+
 **exclude** - Não checke a pasta definida
 
 ## Configurar o **git**
