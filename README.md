@@ -58,3 +58,5 @@ Vamos usar TypeScript
 # Tòpicos
 
 * <a href="src/README-SOLID.md" target="_self">Princípios do design orientado a objetos (SOLID)</a>
+* <a href="src/README-UML.md" target="_self">UML Básico</a>
+* <a href="src/README-CONF-TS.md" target="_self">Configurando um projeto typescript</a>
