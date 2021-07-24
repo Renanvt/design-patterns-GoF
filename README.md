@@ -60,3 +60,4 @@ Vamos usar TypeScript
 * <a href="src/README-SOLID.md" target="_self">Princípios do design orientado a objetos (SOLID)</a>
 * <a href="src/README-UML.md" target="_self">UML Básico</a>
 * <a href="src/README-CONF-TS.md" target="_self">Configurando um projeto typescript</a>
+* <a href="src/README-SINGLETON.md" target="_self">Singleton teoria</a>
