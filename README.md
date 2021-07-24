@@ -1,4 +1,3 @@
-# design-patterns-GoF
 # Oque são padrões de projeto
 
 São **soluções elegantes para problemas conhecidos** recorrentes no desenvolvimento de softwares que foram utilizados e testados no passado e continuam relevantes nos dias atuais
@@ -55,3 +54,7 @@ Vamos usar TypeScript
 - Muito código para atingir um objetivo simples
 - Podem trazer otimizações prematuras para o seu código (YAGNI - You Ain't Gonna Need It)
 - Se usados incorretamente, podem atrapalhar ao invés de ajudar
+
+# Tòpicos
+
+* <a href="src/README-SOLID.md" target="_self">Princípios do design orientado a objetos (SOLID)</a>
